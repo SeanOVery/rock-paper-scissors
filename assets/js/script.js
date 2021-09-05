@@ -34,7 +34,7 @@ function rps() {
     };
     if (window.confirm("Play again?")) {
         rps();
-    }
+    };
 };
 
 rps();
